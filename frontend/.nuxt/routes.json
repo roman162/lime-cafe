@@ -1,0 +1,16 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/oem/Документы/code/hakaton/hakaton/frontend/pages/admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_0be617b3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/oem/Документы/code/hakaton/hakaton/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4b127894"
+  }
+]
