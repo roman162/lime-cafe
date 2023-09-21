@@ -10,7 +10,7 @@
             <img src="/Emoji.svg" class="login__icon">
           </div>
           <div class="login__title">
-            Привет, это кухня у лайма
+            Привет, это кухня у Лайма
           </div>
         </div>
         <div class="login__input-wrapper">
